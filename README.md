@@ -100,15 +100,15 @@ This project is actively maintained and will continue so until I'm tired of it.
 ### Screenshots
 <p align="center">
 
-<img  width="25%" height="25%" src="./ss/overview.jpg">
+<img  width="25%" height="25%" src="./overview.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-start.jpg">
+<img  width="25%" height="25%" src="./bot-start.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-help.jpg">
+<img  width="25%" height="25%" src="./bot-help.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-authorise.jpg">
+<img  width="25%" height="25%" src="./bot-authorise.jpg">
 
-<img  width="25%" height="25%" alt="Upload" src="./ss/bot-upload.jpg">
+<img  width="25%" height="25%" alt="Upload" src="./bot-upload.jpg">
 
 </p>
 
