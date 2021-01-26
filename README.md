@@ -118,7 +118,8 @@ Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku
 
 ### Contact
 
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
+You can contact me [@MrBot_Developer](https://telegram.dog/MrBot_Developer
+"Mr.Bot Developer").
 
 ### License
 Code released under [GNU General Public License v3.0](LICENSE).
