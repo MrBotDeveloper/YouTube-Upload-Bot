@@ -83,7 +83,7 @@ Follow the instructions provided by bot to setup authorisation and to start uplo
 
 **Or the easy way of directly deploying to heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrBotDeveloper/YouTube-Video-Upload-Bot/tree/main)
 
 
 
