@@ -1,7 +1,7 @@
 {
   "name": "Youtube Upload Bot",
-  "description": "Telegram to YouTube Uploader Bot",
-  "repository": "https://github.com/odysseusmax/utube",
+  "description": "Telegram to YouTube Video Uploading Bot",
+  "repository": "https://github.com/MrBotDeveloper/YouTube-Upload-Bot",
   "logo": "https://github.com/MrBotDeveloper/YouTube-Upload-Bot/blob/main/logo.jpg",
   "keywords": ["telegram", "youtube", "uploader"],
   "env": {
