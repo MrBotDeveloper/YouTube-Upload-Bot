@@ -39,7 +39,7 @@ Support Group=> @Mr_Developer_Support"""
 
     AUTH_SUCCESS_MSG = "Congrats, you have successfully authenticated me to upload to Youtube.\nHappy uploading!"
 
-    AUTH_FAILED_MSG = "Authentication failed\nDetails:{}"
+    AUTH_FAILED_MSG = "Authentication failed\nDetails:{}\nPlease contact @Mr_Developer_Support"
     
     AUTH_DATA_SAVE_SUCCESS = "Successfully saved the given auth data!"
     
