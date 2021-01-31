@@ -67,7 +67,7 @@ class Uploader:
             categoryName = self.video_category[categoryId]
             title = self.title if self.title else os.path.basename(self.file)
             title = (Config.VIDEO_TITLE_PREFIX + title + Config.VIDEO_TITLE_SUFFIX).replace('<', '').replace('>', '')[:100]
-            description = (Config.VIDEO_DESCRIPTION + '\nUploaded to YouTube with https://t.me/youtube_upload_robot')[:5000]
+            description = (Config.VIDEO_DESCRIPTION + '\nUploaded to YouTube with https://t.me/Youtube_Upload_Robot Try now.')[:5000]
             if not Config.UPLOAD_MODE:
                 privacyStatus = 'private'
             else:
