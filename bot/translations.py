@@ -34,8 +34,8 @@ class Messages:
 
     NO_AUTH_CODE_MSG = """There is no code. Please provide some code
 
-
-Support Group=> """
+Updates Channel=> @Mr_Bot_Developer
+Support Group=> @Mr_Developer_Support"""
 
     AUTH_SUCCESS_MSG = "Congrats, you have successfully authenticated me to upload to Youtube.\nHappy uploading!"
 
